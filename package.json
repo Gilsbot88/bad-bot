@@ -1,5 +1,5 @@
 {
-  "name": "bad-bot",
+  "name": "Agil Bot",
   "version": "0.0.1",
   "description": " ",
   "main": "node index",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "git remote set-url origin https://github.com/dcode-denpa/bad-bot.git && git pull && npm install pm2 -g && pm2 start index && pm2 save && pm2 dashboard"
   },
-  "author": "Denis Putra",
+  "author": "Ragil",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
